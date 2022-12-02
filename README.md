@@ -8,7 +8,7 @@ The goal of our product is to break the taboo by empowering the client to diagno
 [1.Steffy Senson](https://github.com/SteffySenson/)   
 [2.Akhilesh G](https://github.com/theakhileshg)   
 [3.Gopi Sankar](https://github.com/Gopps95)   
-[4.Ameesha Arackal](https://github.com/AMEESHAARACKAL)   
+
 
 ## Link to Project
 https://SAGACCM.steffysenson.repl.co <br>
