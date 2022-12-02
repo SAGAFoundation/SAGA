@@ -13,7 +13,7 @@ The goal of our product is to break the taboo by empowering the client to diagno
 
 ## Link to Project
 https://saga.sagafoundation.repl.co/ <br>
-https://gopishankar.me/SAGA.CCM/
+https://sagafoundation.github.io/SAGA/
 
 
 ## Technologies used
